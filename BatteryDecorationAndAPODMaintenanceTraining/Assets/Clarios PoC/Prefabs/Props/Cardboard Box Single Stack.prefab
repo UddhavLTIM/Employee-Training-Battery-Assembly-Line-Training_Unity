@@ -1,0 +1,489 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &998271480645900587
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4907494840534544344}
+  m_Layer: 0
+  m_Name: Cardboard Box Single Stack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4907494840534544344
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 998271480645900587}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 921284659038017997}
+  - {fileID: 239353778170466584}
+  - {fileID: 5079418750864843842}
+  - {fileID: 2966925706477514284}
+  - {fileID: 6664713529946993640}
+  - {fileID: 2322379023192632186}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2318074923837146628
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4907494840534544344}
+    m_Modifications:
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.004894404
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.000009536743
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.00000006321352
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8185354271397441525, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_Name
+      value: Cardboard Box (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f79cdba096c4944938df3b45e0b26424, type: 3}
+--- !u!4 &5079418750864843842 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+    type: 3}
+  m_PrefabInstance: {fileID: 2318074923837146628}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4191475804216414638
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4907494840534544344}
+    m_Modifications:
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.000022177817
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.003404703
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0000072467374
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8185354271397441525, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_Name
+      value: Cardboard Box (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f79cdba096c4944938df3b45e0b26424, type: 3}
+--- !u!4 &6664713529946993640 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+    type: 3}
+  m_PrefabInstance: {fileID: 4191475804216414638}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5074558180554115388
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4907494840534544344}
+    m_Modifications:
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8185354271397441525, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_Name
+      value: Cardboard Box (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f79cdba096c4944938df3b45e0b26424, type: 3}
+--- !u!4 &2322379023192632186 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+    type: 3}
+  m_PrefabInstance: {fileID: 5074558180554115388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5727012575877336170
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4907494840534544344}
+    m_Modifications:
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.000021672342
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.006815967
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.000014519726
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8185354271397441525, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_Name
+      value: Cardboard Box (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f79cdba096c4944938df3b45e0b26424, type: 3}
+--- !u!4 &2966925706477514284 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+    type: 3}
+  m_PrefabInstance: {fileID: 5727012575877336170}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7279108183442043742
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4907494840534544344}
+    m_Modifications:
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0048898505
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0034428977
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.000007047667
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8185354271397441525, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_Name
+      value: Cardboard Box (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f79cdba096c4944938df3b45e0b26424, type: 3}
+--- !u!4 &239353778170466584 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+    type: 3}
+  m_PrefabInstance: {fileID: 7279108183442043742}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7683074072564366219
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4907494840534544344}
+    m_Modifications:
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0048898505
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.006792507
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0000070500537
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8185354271397441525, guid: f79cdba096c4944938df3b45e0b26424,
+        type: 3}
+      propertyPath: m_Name
+      value: Cardboard Box
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f79cdba096c4944938df3b45e0b26424, type: 3}
+--- !u!4 &921284659038017997 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7374306486099124806, guid: f79cdba096c4944938df3b45e0b26424,
+    type: 3}
+  m_PrefabInstance: {fileID: 7683074072564366219}
+  m_PrefabAsset: {fileID: 0}
